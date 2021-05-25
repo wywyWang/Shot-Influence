@@ -10,9 +10,10 @@ This repository contains the source code for the paper: *Exploring the Long Shor
 - pandas==0.24.2
 - tensorflow-gpu==2.0.0
 - keras_self_attention
-- prosenet
-- keras_ordered_neurons
-- keras_transformer
+- [ProSeNet](https://github.com/rgmyr/tf-ProSeNet)
+- [DeepMoji](https://github.com/bfelbo/DeepMoji)
+- [ON-LSTM](https://github.com/CyberZHG/keras-ordered-neurons)
+- [Transformer](https://github.com/CyberZHG/keras-transformer)
 
 ### Install
 Download the project
