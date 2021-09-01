@@ -1,7 +1,7 @@
 # Shot Influence
 
 ## Introduction
-This repository contains the source code for the paper: *Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches*
+This repository contains the source code for the paper : *Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches*
 
 ## Getting started
 ### Prerequisites
