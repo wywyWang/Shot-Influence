@@ -1,5 +1,8 @@
 # Shot Influence
 
+## Update
+This repo has been moved to [CoachAI Projects](https://github.com/wywyWang/CoachAI-Projects) and will no longer be maintained.
+
 ## Introduction
 This repository contains the source code for the paper accepted in ICDM'21: *Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches*
 
